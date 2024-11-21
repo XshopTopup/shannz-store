@@ -145,7 +145,7 @@ const products = [
         id: 7,
         name: "Like Profile MLBB",
         price: 40,
-        image: "https://telegra.ph/file/8d5874daf03be2a5797ec.jpg",
+        image: "https://files.catbox.moe/azu90e.jpg",
         description: "Info❗ : Proses bertahap, maksimal 1.000 Like perhari.",
         author: "XshopTopup",
         features: [
